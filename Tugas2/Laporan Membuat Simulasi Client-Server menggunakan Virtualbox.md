@@ -16,5 +16,3 @@ Setelah selesai, tekan *ctrl+s* lalu Enter untuk menyimpan yang kita buat tadi, 
 7.  Klik kanan pada Local Area Connections lalu pilih Properties. Klik pada Internet Protocol (TCP/IP) kemudian klik Properties, akan muncul Jendela Internet Protocol (TCP/IP) Properties.
    
 8.  Pada Internet Protocol (TCP/IP) Properties pilih *Use the following IP address*, kemudian masukkan IP Address pada network yang sama. Sebagai contoh IP Address untuk komputer client tidak bolah sama dengan yang sebelumnya *192.168.1.7*, kemudian pada bagian *Subnet mask* biasanya akan terisi *255.255.255.0* secara otomatis. Setelah itu tekan Ok.
-
-https://github.com/TrisenaWulandari/Administrasi-Sistem.git
