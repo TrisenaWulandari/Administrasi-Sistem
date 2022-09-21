@@ -10,12 +10,15 @@ Setelah selesai, tekan *ctrl+s* lalu Enter untuk menyimpan yang kita buat tadi, 
 ![Step 3](/Tugas2/gambar/Screenshot%20(6).png)
 
 4. Setelah selesai melakukan konfigurasi IP Address, kemudian restart service dari networking pada komputer server kita. Caranya ketikkan perintah */etc/init.d/networking* restart lalu tekan Enter.
-5. ![Step 4](/Tugas2/gambar/Screenshot%20(9).png)
+   ![Step 4](/Tugas2/gambar/Screenshot%20(9).png)
    
-6.  Langkah selanjutnya kita harus memastikan dulu apakah IP Address kita berhasil atau tidak. Caranya dengan mengetikkan perintah *ifconfig* lalu Enter
+5.  Langkah selanjutnya kita harus memastikan dulu apakah IP Address kita berhasil atau tidak. Caranya dengan mengetikkan perintah *ifconfig* lalu Enter 
+   ![Step 5](/Tugas2/gambar/Screenshot%20(11).png)
 
-7.  Setelah itu, buka *Control Panel -> Network and Internet Connections -> Network Connections*. di situ akan terdapat Local Are Connections.
+
+6.  Setelah itu, buka *Control Panel -> Network and Internet Connections -> Network Connections*. di situ akan terdapat Local Are Connections. 
+   ![step6](/Tugas2/gambar/s)
+
+7.  Klik kanan pada Local Area Connections lalu pilih Properties. Klik pada Internet Protocol (TCP/IP) kemudian klik Properties, akan muncul Jendela Internet Protocol (TCP/IP) Properties.
    
-8.  Klik kanan pada Local Area Connections lalu pilih Properties. Klik pada Internet Protocol (TCP/IP) kemudian klik Properties, akan muncul Jendela Internet Protocol (TCP/IP) Properties.
-   
-9.  Pada Internet Protocol (TCP/IP) Properties pilih *Use the following IP address*, kemudian masukkan IP Address pada network yang sama. Sebagai contoh IP Address untuk komputer client tidak bolah sama dengan yang sebelumnya *192.168.1.7*, kemudian pada bagian *Subnet mask* biasanya akan terisi *255.255.255.0* secara otomatis. Setelah itu tekan Ok.
+8.  Pada Internet Protocol (TCP/IP) Properties pilih *Use the following IP address*, kemudian masukkan IP Address pada network yang sama. Sebagai contoh IP Address untuk komputer client tidak bolah sama dengan yang sebelumnya *192.168.1.7*, kemudian pada bagian *Subnet mask* biasanya akan terisi *255.255.255.0* secara otomatis. Setelah itu tekan Ok.
