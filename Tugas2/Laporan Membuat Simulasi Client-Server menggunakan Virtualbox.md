@@ -17,8 +17,10 @@ Setelah selesai, tekan *ctrl+s* lalu Enter untuk menyimpan yang kita buat tadi, 
 
 
 6.  Setelah itu, buka *Control Panel -> Network and Internet Connections -> Network Connections*. di situ akan terdapat Local Are Connections. 
-   ![step6](/Tugas2/gambar/s)
+   ![step6](/Tugas2/gambar/Screenshot%20(22).png)
 
 7.  Klik kanan pada Local Area Connections lalu pilih Properties. Klik pada Internet Protocol (TCP/IP) kemudian klik Properties, akan muncul Jendela Internet Protocol (TCP/IP) Properties.
+   ![step7](/Tugas2/gambar/Screenshot%20(18).png)
    
 8.  Pada Internet Protocol (TCP/IP) Properties pilih *Use the following IP address*, kemudian masukkan IP Address pada network yang sama. Sebagai contoh IP Address untuk komputer client tidak bolah sama dengan yang sebelumnya *192.168.1.7*, kemudian pada bagian *Subnet mask* biasanya akan terisi *255.255.255.0* secara otomatis. Setelah itu tekan Ok.
+   ![step8](/Tugas2/gambar/Screenshot%20(20).png)
